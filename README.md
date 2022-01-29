@@ -2,7 +2,7 @@
  Sheriff job for QBCore 
  <p>
  <b>
-I edited policejob for qbcore and i am planning to add more locales support.
+I edited policejob for sheriffs and i am planning to add more locales support.
 </b>
 </p>
 
