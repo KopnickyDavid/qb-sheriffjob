@@ -2,6 +2,7 @@
  Sheriff job for QBCore 
 
 # qb-core/shared/jobs.lua 
+```
 ['sheriff'] = {
 		label = 'Sheriff',
 		defaultDuty = true,
@@ -63,6 +64,5 @@
             },
         },
 	},
+```
 
-
-    
