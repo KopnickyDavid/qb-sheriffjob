@@ -5,6 +5,7 @@
 I edited policejob for qbcore and i am planning to add more locales support.
 </b>
 </p>
+
 # qb-core/shared/jobs.lua 
 ```
 ['sheriff'] = {
