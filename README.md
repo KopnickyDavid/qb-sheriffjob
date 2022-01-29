@@ -1,6 +1,6 @@
 # qb-sheriffjob
  Sheriff job for QBCore 
-
+I edited policejob for qbcore and i am planning to add more locales support.
 # qb-core/shared/jobs.lua 
 ```
 ['sheriff'] = {
