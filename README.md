@@ -5,6 +5,9 @@
 I edited policejob for sheriffs and i am planning to add more locales support.
 </b>
 </p>
+<p>
+Configured for GABZ paleto sheriff
+</p>
 
 # qb-core/shared/jobs.lua 
 ```
