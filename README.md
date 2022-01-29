@@ -65,4 +65,7 @@
         },
 	},
 ```
-
+# qb-bossmenu/config.lua
+```
+    ['sheriff'] = vector3(-433.28, 6006.27, 37.0),
+```
